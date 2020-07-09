@@ -16,3 +16,11 @@ Q11. PT를 받는 회원 중에 라커를 이용하지 않는 회원은
 Q12. 회원 중 나이가 20대인 회원의 비율은?
 
 Q19. PT를 가장 많이/적게 이용하는 연령대는?
+
+
+
+![image](https://user-images.githubusercontent.com/53117014/87041799-b7baa200-c22d-11ea-931a-65b0316aaa87.png)
+
+![image](https://user-images.githubusercontent.com/53117014/87041817-c0ab7380-c22d-11ea-8a8d-32de4531664b.png)
+
+![image](https://user-images.githubusercontent.com/53117014/87041853-cef98f80-c22d-11ea-83a5-177c31aaf846.png)
