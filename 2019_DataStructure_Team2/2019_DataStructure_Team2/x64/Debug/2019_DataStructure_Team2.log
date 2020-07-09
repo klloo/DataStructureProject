@@ -1,0 +1,29 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Platform.targets(67,5): error MSB8020: v142에 대한 빌드 도구(플랫폼 도구 집합 = 'v142')를 찾을 수 없습니다. v142 빌드 도구를 사용하여 빌드하려면 v142 빌드 도구를 설치하십시오.  [프로젝트] 메뉴를 선택하거나 솔루션을 마우스 오른쪽 단추로 클릭한 다음 "솔루션 대상 변경"을 선택하여 현재 Visual Studio 도구로 업그레이드할 수도 있습니다.
+
+프로젝트 성능 요약:
+      314ms  C:\GitHub\DataStructure_Project\2019_DataStructure_Team2\2019_DataStructure_Team2\2019_DataStructure_Team2.vcxproj   1회 호출
+                314ms  Build                                      1회 호출
+
+대상 성능 요약:
+        0ms  BeforeResolveReferences                    1회 호출
+        0ms  _SplitProjectReferencesByFileExistence     1회 호출
+        0ms  GetReferenceAssemblyPaths                  1회 호출
+        0ms  SetBuildDefaultEnvironmentVariables        1회 호출
+        0ms  GetResolvedWinMD                           1회 호출
+        1ms  _PrepareForBuild                           1회 호출
+        1ms  _PrepareForReferenceResolution             1회 호출
+        1ms  GetFrameworkPaths                          1회 호출
+        1ms  PrepareProjectReferences                   1회 호출
+        3ms  AssignProjectConfiguration                 1회 호출
+        5ms  _GetProjectReferenceTargetFrameworkProperties   1회 호출
+       19ms  SetTelemetryEnvironmentVariables           1회 호출
+       31ms  PlatformPrepareForBuild                    1회 호출
+       49ms  ResolveProjectReferences                   1회 호출
+      195ms  _CheckForInvalidConfigurationAndPlatform   1회 호출
+
+작업 성능 요약:
+        2ms  MSBuild                                    1회 호출
+        3ms  AssignProjectConfiguration                 1회 호출
+        3ms  SetEnv                                     7회 호출
+        6ms  Message                                    2회 호출
+       31ms  VCMessage                                  1회 호출
